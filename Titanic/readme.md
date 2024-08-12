@@ -22,24 +22,4 @@ This repository showcases how to build powerful and engaging data dashboards usi
 - **Bokeh**: For creating interactive plots and dashboards.
 - **Flask**: For developing the web application framework.
 
-## Getting Started 🚀
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/renrihui8415/interactive-data-dashboards.git
-
-2. **Install Dependencies**:
-
-- Ensure you have Python installed.
-- Install necessary Python packages:
-  ```bash
-  pip install plotly dash bokeh flask
-
-3. Run the Application:
-
-- Follow the instructions in the specific project directories to run the web application.
-
-_For more detailed instructions, refer to the individual project directories and their specific README.md files._
-
-## Contributing 🤝
-Feel free to contribute to this repository by submitting issues, suggestions, or pull requests.
