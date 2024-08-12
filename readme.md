@@ -1,4 +1,4 @@
-# Interactive Data Dashboards with Python 🚀
+# Interactive Data Dashboards with Python：Building Dynamic and Automated Web Apps 🚀🚀
 
 Welcome to the repository for **Interactive Data Dashboards with Python**. This project demonstrates the **endless possibilities of data visualization** by combining Python with HTML and CSS to create dynamic and interactive data dashboards.
 
@@ -20,7 +20,7 @@ This repository showcases how to build powerful and engaging data dashboards usi
 - **Plotly**: For creating interactive and animated visualizations.
 - **Dash**: For building interactive web applications with Python.
 - **Bokeh**: For creating interactive plots and dashboards.
-- **Flask**: For developing the web application framework (if applicable).
+- **Flask**: For developing the web application framework.
 
 ## Getting Started 🚀
 
